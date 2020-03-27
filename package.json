@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ionworker/react-native-styles.git"
   },
-  "author": "ionworker",
+  "author": {
+    "name": "ionworker",
+    "email": "boytsov.net@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ionworker/react-native-styles/issues"
